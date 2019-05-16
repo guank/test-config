@@ -20,6 +20,7 @@ public class MainActivityTest {
 
     public static final String NAME = "Hello World!";
 
+    // Checks if this works
     @Rule
     public ActivityTestRule<MainActivity> activityRule
             = new ActivityTestRule<>(MainActivity.class);
