@@ -18,7 +18,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 @LargeTest
 public class MainActivityTest {
 
-    public static final String NAME = "Hellow World!";
+    public static final String NAME = "Hello World!";
 
     // Checks if this works
     @Rule
